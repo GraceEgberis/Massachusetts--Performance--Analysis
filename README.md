@@ -156,7 +156,7 @@ Insights from the analysis of patient demographics, admissions, readmissions, le
 ## Dashboard Preview
 
 ### Patient Overview Dashboard
-![Patient Overview](Patient_Overview .png.png).
+![Patient Overview](images/Patient_Overview.png)
 
 ### Admission & Readmission Dashboard
 ![Admission Dashboard](Admisssion_Dashboard.png.png)
