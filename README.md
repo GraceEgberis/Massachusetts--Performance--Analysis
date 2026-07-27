@@ -6,7 +6,7 @@ This project analyses historical healthcare data from Massachusetts General Hosp
 
 ## Project Description
 
-This end-to-end healthcare analytics project covers business problem understanding, data preparation, data modelling, analysis, dashboard development, and business recommendations. The analysis addresses key business questions related to patient demographics, admissions, readmissions, length of stay, procedure costs, and insurance coverage.
+This healthcare analytics project covers business problem understanding, data preparation, data modelling, analysis, dashboard development, and business recommendations. The analysis addresses key business questions related to patient demographics, admissions, readmissions, length of stay, procedure costs, and insurance coverage to uncover insights that support better clinical and operational decision-making.
 
 ## Project Aim
 
