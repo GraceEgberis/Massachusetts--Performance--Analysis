@@ -32,10 +32,9 @@ The dataset consists of five related tables:
 - **Payers:** 10 rows, 7 columns
 - **Dictionary:** Reference table
 
-## Tools Used
+## Tools / Techniques Used
 
-- Power BI
-- Power Query
+Power BI: Power Query, Data Modelling, Relationships, DAX Measures, Calculated Columns, Interactive Dashboards, KPIs, and Visualisations.
   
 ## Importing the Dataset
 
